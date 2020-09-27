@@ -15,4 +15,12 @@ body {
   height: auto;
 }
 
+a {
+ text-decoration: none;
+}
+
+a.active {
+  text-decoration: underline;
+}
+
 
